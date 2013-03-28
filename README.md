@@ -1,4 +1,1 @@
-Project configured for use in conjunction with:
-	- Slim Framework
-	- ActiveRecord
-	- Twig
+Project configured for use in conjunction with: Slim Framework, ActiveRecord, Twig
